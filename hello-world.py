@@ -1,3 +1,2 @@
-print('hello world for jenkins job')
-print('hello my beautiful world')
+print('hello demo first webhook trigger job')
 
